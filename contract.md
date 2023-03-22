@@ -29,10 +29,14 @@ progress?_
 _What will you do to make sure that you can give consistent and actionable feedback to
 other people in the class?_
 
+In order to give helpful crituques to my classmates. I want to prentend what it would be like to be an expert in their domain. As a computer science student, my understanding to the language might be different than someone who is not used to programming, so I want to make sure I don't assume any knowledge of programming outside of the domain. I also want to spend time interacting with the language and use it to do some of the tasks it was intended for. 
+
 ## Success
 
 _At the end of the semester, what would you be proud to show or tell someone about your
 project?_
+
+I will consider the project a success if it is something that I would actually use and find helpful. It would be even better if it is easy enough for others to understand and use it as well. 
 
 ## Assessment
 
