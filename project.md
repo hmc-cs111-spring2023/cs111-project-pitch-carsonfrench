@@ -62,6 +62,8 @@ aren't and conjecture why not. If so, describe them and provide links. How well
 do they address the need? Are there any particularly admirable qualities of the
 language? Are there parts of the language you think could be improved?_
 
+There are various health tracking applications, but I have yet to find one that is both free and offers customizable statistics. I haven't found any DSLs on this topic either probably because there are already so many apps. It may seem like this topic already has a lot of resources but none of them are actually very helpful. My language would be an advantage over these apps because you can save food items or meals as a variable and have much greater control over your data and the grahs you can generate with it. My language will also allow users to create custom "dashboards" with graphs that they personally create. I think that my language will not be as efficient for data entry, but I believe the advantages in graph genration and privacy will still make it relevant. 
+
 ## The Project
 
 This section examines whether the idea makes for a good CS 111 project.
@@ -74,11 +76,17 @@ making language design decisions), as opposed to "systems" aspects of the
 project (e.g., implementing a complicated semantics that doesn't require a lot
 of language design)?_
 
+I think it would be about half and half. It could take a lot of time to write the code ofr all the different classes and for the graph generation, but it will also be important that the semantics are simple and understandable because one of the major goals of the language is to save time. 
+
 ### Scope
 
 _How big an idea is this? How ambitious is this project?_
+
+Making a basic version of this language will be a pretty decent challenge, but there are many directions the project could go after that. I definitely think this project is ambitious enough because if creating the data entry and graph generation ends up not being that hard there are a lot more features I could add. 
 
 ### Benefits and drawbacks
 
 _Why might this be a good idea for a project? Why might this not be a good idea
 project?_
+
+The benefit is that the language will be a great alternative to useing a health tracking app because it keeps your data private and makes it more customizable to the individual. The drawback is that entering the calorie data could be tedious compared to the processes in smartphone apps that can automatically track calories burnt and scan in food items with barcodes. 
