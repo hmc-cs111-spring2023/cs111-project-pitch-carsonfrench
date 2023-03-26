@@ -19,20 +19,26 @@ There are already counless calorie tracking apps available that people can use t
 
 _Why is a DSL appropriate for your user(s)? How does it address the need?_
 
-There are many 
+There are many types of data that can be helpful for tracking weight such as time, date, body weight, calories burnt, calorie intake, and foods eaten. There are many different graphs that can be made from this data, so it would be helpful to have a language to quickly generate a graph you are looking for in an understabdable way. There are many languages available that can already be used to generate these graphs, such as Python and R, but it would be convenient to has a language specifically for fitness tracking to speed up the process. A plan for weight loss or weight gain takes commitment over time and constant tracking. Even the smallest amount of time saved generating a graph would be significatly more efficient since the language would be used so often. 
 
 ### Why you?
 
 _What excites you about this idea? How did you come up with it?_
 
+I am someone who has used these types of apps for both weight gain and weight loss. Through my experience with the apps I definitely saw a need for something more personal since the graphs that I generated were helpful, but not exactly what I was looking for. The app already had all the data to generate the graphs I was looking for but there was no way to do it in the app. I am excited about this idea because it is something I could actually see myself using and I hope others will find it helpful too. 
+
 ### Domain
 
 _Describe the project's domain in five words._
+
+Tracking and displaying calorie data
 
 ### Interface (syntax)
 
 _How might the user interact with the language? What does programming look
 like? Why is this the right way to interact with the problem domain?_
+
+
 
 ### Operation (semantics)
 
