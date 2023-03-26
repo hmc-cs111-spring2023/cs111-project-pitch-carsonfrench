@@ -38,7 +38,7 @@ Tracking and displaying calorie data
 _How might the user interact with the language? What does programming look
 like? Why is this the right way to interact with the problem domain?_
 
-
+The user would first enter their data using simple phrases like "log broccoli 100 calories" or "log weight 150". Ideally the user can create custom meals as variables and just enter the name for that if it is a meal they have often and don't want to log every specific item each time. Another feature would be creating custom graphs. If there are certain parameters for a graph that the user is specifically interested in, they can save that as a variable as well, so they don't have to type out thise specific settings every time. Generating a graph that looks at weight over the last 5 days would look something like this: "Graph(last 5 days, weight)". The user could then save this as a variable, so they just have to type in the name of the graph next time they want to look at it. Also, the user can create a dashboard which contains a collection of graphs that can be printed together. 
 
 ### Operation (semantics)
 
@@ -46,10 +46,14 @@ _What might happen when a program runs? How does a program interact with the
 user? What kinds of errors might occur, and how might they be communicated to
 the user?_
 
+When entering the data, there shouldn't be any response unless there is an error. An error may occur when someone enters the wrong data type, and the language should respond to them letting them know. Creating a graph should automatically return an image of the graph. There will need to be some srt of file system to save all the data as well. 
+
 ### Expressiveness
 
 _What should be easy to do in this language? What should be possible, but
 difficult? What should be impossible or very difficult?_
+
+I think it should be pretty simple setting up the classes within the language such as Food, Meal, Graph, and Dashboard. I thing making the sematics look nice will probably be the most difficult part but definitely possible. One thing that may be very challenging is data entry. Many of the fitness tracking apps can just scan barcodes of items and automatically enter the data. It will be very difficult to create something as efficient as that. 
 
 ### Related work
 
