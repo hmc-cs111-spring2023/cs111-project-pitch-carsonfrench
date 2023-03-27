@@ -4,6 +4,8 @@
 
 _At a high level, what do you most want to get out of this project, and why?_
 
+I am excited to get experience working in a studio environment. It will be great to get practice doing both the design and development of the language and thinking in the perspective of a domain expert. 
+
 ## Concepts / skills
 
 _What concepts and / or skills from class would you like to work on, as part of your
@@ -11,6 +13,8 @@ project? Are there any concepts / skills that we haven't covered in class that y
 like to work on, as part of your project (for example, other things related to DSLs that
 you have come across, or topics from other classes)? Why are you interested in working on
 these things?_
+
+I am excited to continue working on syntax design. That is something I have enjoyed from earlier in the class. I also hope to learn more about storage and filing systems since I will need to find a way to store the data. 
 
 ## Time management plan
 
